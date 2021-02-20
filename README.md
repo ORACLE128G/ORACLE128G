@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=ORACLE128G&show_icons=true&theme=cobalt&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ORACLE128G&layout=compact&hide=html)
+
 <!--
 **ORACLE128G/ORACLE128G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
